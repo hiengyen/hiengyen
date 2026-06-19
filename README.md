@@ -1,4 +1,4 @@
-# Hi there! I'm Yen (hiengyen) 👋
+# Hi there! I'm hiengyen 👋
 
 <p align="left">
   <a href="https://github.com/hiengyen">
