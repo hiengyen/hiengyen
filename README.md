@@ -65,14 +65,14 @@
 
 <!-- This section is updated automatically by GitHub Actions -->
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="480" />
 </p>
 
 <details>
   <summary>📆 Detailed Commit Calendar</summary>
   <br/>
   <p align="center">
-    <img src="metrics.plugin.calendar.full.svg" alt="Full Commit Calendar" width="100%" />
+    <img src="metrics.plugin.calendar.full.svg" alt="Full Commit Calendar" width="480" />
   </p>
 </details>
 
